@@ -7,4 +7,4 @@ category: CSS
 Get the lowdown on the key pieces of Bootstrap's infrastructure
 
 ##HTML Doctype
-Bootstrap makes use of certain types of certain HTML 
+Bootstrap makes use of certain types of certain HTML

@@ -10,7 +10,13 @@
 <body>
 <div class="container">
   <h1>{{ page.title }}</h1>
-  {{ content }}
+<div class="row">
+  <div class="col-md-3">
+    <h3>Sidebar</h3>
+  <div class="col-md-9">
+    {{ content }}
+  </div>
+</div>
 </div>
 </body>
 </html>

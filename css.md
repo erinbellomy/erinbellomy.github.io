@@ -1,10 +1,11 @@
 title: css
-layout: fake_bootstrap
+layout: default
 description: Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system.
 category: CSS
 ---
-##overview
-Get the lowdown on the key pieces of Bootstrap's infrastructure
+body {
+  background-color: #72195a;
+  padding: 0em;
+  margin: 0em;
 
-##HTML Doctype
-Bootstrap makes use of certain types of certain HTML
+}

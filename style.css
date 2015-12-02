@@ -4,7 +4,19 @@ layout: default
 category: demo page
 ---
 
-
+// classes
+.pull-left {
+  float:left !important;
+}
+.pull-right {
+  float:right !important;
+}
+// class
+.center-block {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;

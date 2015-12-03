@@ -1,8 +1,10 @@
 
-.col-md-1 {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  height: 1080px;
+.col-md-2 {
+  border-left: none;
+  border-bottom: none;
+  border-top: none;
+  border-right: 2px solid black;
+  height: 800px;
 }
 
 body {

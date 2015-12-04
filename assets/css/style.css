@@ -21,6 +21,6 @@ h1.entry-title a {
 
 
 :link:hover {
-  background-color: #700000
+  background-color: maroon;
   outline: dotted red;
 }

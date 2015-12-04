@@ -12,7 +12,7 @@ background-color: white;
 }
 
 h1.entry-title a {
-  color: white;
+  color: black;
 }
 
 .navlinks {
@@ -23,4 +23,8 @@ h1.entry-title a {
 .link:hover {
   background-color: white;
   outline: dotted white;
+}
+
+p {
+  border: 5px solid red;
 }

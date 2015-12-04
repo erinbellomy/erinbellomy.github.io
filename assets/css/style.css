@@ -19,6 +19,9 @@ h1.entry-title a {
   color: black;
 }
 
+.page-header {
+  background-color: maroon;
+}
 
 .link:hover {
   background-color: white;

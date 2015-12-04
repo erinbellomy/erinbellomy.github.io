@@ -8,21 +8,8 @@
 }
 
 body {
-  background-color: #72195a
+  background-image: <img src="Christmas 1.png" alt="Christmas in the City">
+background-color: #700000
   padding: 0em;
   margin: 0em;
-}
-
-section {
-  border-bottom:1px solid black;
-
-}
-
-#heading {
-  text-align: center;
-  font-family: 'Fajalla One', sans-serif;
-  font-size: .2em;
-  margin: 0em;
-  padding-bottom: .2em;
-  background image: url(http://data.whicdn.com/images/19879831/large.jpg)
 }

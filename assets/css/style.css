@@ -8,10 +8,7 @@
 }
 
 body {
-  background-image: <img src="Christmas 1.png" alt="Christmas in the City">
 background-color: #700000
-  padding: 0em;
-  margin: 0em;
 }
 
 h2 {
@@ -20,5 +17,13 @@ h2 {
   padding:0;
   width:200px
   background-color: #700000
+}
 
+div#navigation {
+  margin:0;
+  padding: .3em 0 .3em 0;
+  background: #E3E4DB
+  width: 100%;
+  text-align: center;
+  font: 'Droid Sans', sans-serif;
 }

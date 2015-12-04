@@ -13,3 +13,12 @@ background-color: #700000
   padding: 0em;
   margin: 0em;
 }
+
+h2 {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  width:200px
+  background-color: #700000
+
+}

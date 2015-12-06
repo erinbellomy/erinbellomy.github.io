@@ -1,7 +1,4 @@
-body {
-background-image: ("christmas nyc 34.jpg")
-color: black;
-}
+
 
 section {
   border-bottom: 1px solid black;
@@ -14,7 +11,6 @@ section {
   color: black;
   margin: 0em;
   padding-bottom: .2em;
-  background-image: url("christmas nyc 34.jpg")
 }
 
 div#navigation {

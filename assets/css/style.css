@@ -6,3 +6,9 @@
   border-right: 2px solid black;
   height: 700px;
 }
+
+a.red:link {
+  color: #ff0000;
+  background-color: #ffffff;
+  font-style: italic;
+}

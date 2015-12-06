@@ -17,3 +17,36 @@ div.container {
   padding-bottom: .2em;
   background-image: url(christmas nyc 34.jpg)
 }
+
+div#navigation {
+  margin: 0
+  padding: .3em 0 .3em 0;
+  background: #E3E4DB
+  width: 100%auto;
+  text-align: center;
+  font: 'Droid Sans', sans-serif;
+}
+
+div#navigation ul li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+div#navigation ul a:link {
+  margin: 0
+  padding: .3em .4em .3em .4em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2em;
+  color: #191308;
+}
+
+div#navigation ul a:visited {
+  margin: 0;
+  padding: .3em .4em .3em .4em;
+  text-decoration:none;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #227755
+}

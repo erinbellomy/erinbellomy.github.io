@@ -67,11 +67,11 @@ div#navigation ul a:hover {
 }
 
 div#section1 h1{
-  background-image: ("lights.jpg")
+  background-image: url ("lights.jpg")
   font-family: 'Droid Sans', sans-serif;
   font size: 2em;
   border-style: double;
   border-radius: 0em;
-  background color: yellow;
-  
+
+
 }

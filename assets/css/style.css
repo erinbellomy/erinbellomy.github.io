@@ -1,34 +1,3 @@
 body {
   background-image: url ("christmas nyc 34.jpg");
 }
-
-.entry-title a{
-  color: red;
-}
-
-li a {
-  color: blue;
-}
-
-h1.entry-title a{
-  font-weight: 5500;
-  font-size: 40px;
-  color: red;
-}
-
-.navlinks {
-  color: blue;
-
-}
-
-div.header-main {
-  background-color: red;
-}
-
-:link:hover {
-  outline: dotted red;
-}
-
-a:hover {
-  background-color: rgba(255, 255, 255, 0.5);
-}

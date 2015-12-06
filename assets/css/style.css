@@ -1,7 +1,6 @@
 body {
-  background-color: #300000;
-  padding: 0em;
-  margin: 0em;
+background-image: ("christmas nyc 34.jpg")
+color: black;
 }
 
 section {
@@ -9,14 +8,13 @@ section {
 }
 
 #heading {
-  background-image: url ("christmas nyc 34.jpg")
   text-align: center;
   font-family: 'Fajalla One', sans-serif;
   font-size: .2em;
   color: black;
   margin: 0em;
   padding-bottom: .2em;
-  background-image: url(christmas nyc 34.jpg)
+  background-image: url("christmas nyc 34.jpg")
 }
 
 div#navigation {

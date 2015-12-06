@@ -2,59 +2,33 @@ body {
   background-image: url ("christmas nyc 34.jpg");
 }
 
-section {
-  border-bottom: 1px solid black;
+.entry-title a{
+  color: red;
 }
 
-
-
-div#navigation {
-  margin: 0
-  padding: .3em 0 .3em 0;
-  background: #300000
-  width: 100%auto;
-  text-align: center;
-  font: 'Droid Sans', sans-serif;
+li a {
+  color: blue;
 }
 
-div#navigation ul li {
-  margin: 0;
-  padding: 0;
-  display: inline;
+h1.entry-title a{
+  font-weight: 5500;
+  font-size: 40px;
+  color: red;
 }
 
-div#navigation ul a:link {
-  margin: 0
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 2em;
-  color: #191308;
+.navlinks {
+  color: blue;
+
 }
 
-div#navigation ul a:visited {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration:none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color: #300000
+div.header-main {
+  background-color: red;
 }
 
-div#navigation ul a:active {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color: #300000
+:link:hover {
+  outline: dotted red;
 }
-div#navigation ul a:hover {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color:red;
-  background-color: #300000
+
+a:hover {
+  background-color: rgba(255, 255, 255, 0.5);
 }

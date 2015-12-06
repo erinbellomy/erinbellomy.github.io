@@ -6,33 +6,3 @@
   border-right: 2px solid black;
   height: 700px;
 }
-
-
-
-
-
-h1.entry-title a {
-  color: black;
-}
-
-
-div.col-md-10 {
-  background-color: #8B0000;
-}
-
-a:link {
-  color:red;
-}
-
-a:hover {
-  color: green;
-}
-
-a:active {
-  color: gold;
-}
-
-
-.page-header {
-  background-color: red;
-}

@@ -1,5 +1,6 @@
 body {
-  background-color: #ff0000;
+  background-color: rgb(255, 0, 0);
+  opacity: 0.2;
 }
 
 div {

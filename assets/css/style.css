@@ -1,5 +1,9 @@
-#body {
-  background-color: maroon;
+body {
+  background-color: #ff0000;
+}
+
+div {
+  background-color: rgba(255, 0, 0, 0.2);
 }
 .h1 {
   text-align: center;

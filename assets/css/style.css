@@ -12,3 +12,8 @@ a.red:link {
   background-color: #ffffff;
   font-style: italic;
 }
+
+button.btn.btn-danger.dropdown-toggle {
+  float:left;
+  padding-right: 30px;
+}

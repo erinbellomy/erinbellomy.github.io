@@ -15,11 +15,8 @@ h1.entry-title a {
   color: black;
 }
 
-div.col-md-2 {
-color: black;
-}
+
 div.col-md-10 {
-  background-image: url("christmas 34.jpg");
   background-color: #8B0000;
 }
 
@@ -35,19 +32,7 @@ a:active {
   color: gold;
 }
 
-.navlinks {
-  color: black;
-}
 
 .page-header {
-  background-color: white;
-}
-
-.link:hover {
-  background-color: white;
-  outline: dotted white;
-}
-
-p {
-  border: 5px solid red;
+  background-color: red;
 }

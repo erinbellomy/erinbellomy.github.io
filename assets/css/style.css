@@ -1,27 +1,17 @@
 body {
-  background-image: url ("lights background.jpg");
+  background-image: url ("christmas nyc 34.jpg");
 }
 
 section {
   border-bottom: 1px solid black;
 }
 
-title {
 
-}
-#heading {
-  text-align: center;
-  font-family: 'Fajalla One', sans-serif;
-  font-size: .2em;
-  color: black;
-  margin: 0em;
-  padding-bottom: .2em;
-}
 
 div#navigation {
   margin: 0
   padding: .3em 0 .3em 0;
-  background: #E3E4DB
+  background: #300000
   width: 100%auto;
   text-align: center;
   font: 'Droid Sans', sans-serif;
@@ -48,7 +38,7 @@ div#navigation ul a:visited {
   text-decoration:none;
   font-weight: bold;
   font-size: 1.5em;
-  color: #227755
+  color: #300000
 }
 
 div#navigation ul a:active {
@@ -57,7 +47,7 @@ div#navigation ul a:active {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  color: #227755
+  color: #300000
 }
 div#navigation ul a:hover {
   margin: 0;
@@ -65,6 +55,6 @@ div#navigation ul a:hover {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  color:white;
-  background-color: #477998
+  color:red;
+  background-color: #300000
 }

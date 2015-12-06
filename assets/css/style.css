@@ -1,5 +1,5 @@
-body {
-  background-image: url ("lights background.jpg");
+.body {
+  background-color: yellow;
 }
 
 section {
@@ -15,6 +15,9 @@ section {
   padding-bottom: .2em;
 }
 
+.img {
+  float: right;
+}
 div#navigation {
   margin: 0
   padding: .3em 0 .3em 0;
@@ -67,11 +70,12 @@ div#navigation ul a:hover {
 }
 
 div#section1 h1{
-  background-image: url ("lights.jpg")
+  background-color: yellow;
   font-family: 'Droid Sans', sans-serif;
   font size: 2em;
   border-style: double;
   border-radius: 0em;
+
 
 
 }

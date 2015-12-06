@@ -18,9 +18,8 @@ title {
 }
 
 h1 {
-  float: left;
-  box-sizing: border-box;
-  border-right: 1px solid black;
-  font-size: x-small;
-  height: 10px;
+  background-color: #d70044;
+  color: #fad42b;
+  margin-top:0;
+  padding-left: .5em;
 }

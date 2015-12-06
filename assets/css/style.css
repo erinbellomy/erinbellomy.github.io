@@ -1,7 +1,9 @@
-.body {
-  background-color: yellow;
+#body {
+  background-image: url("lights.jpg");
 }
-
+.h1 {
+  text-align: center;
+}
 section {
   border-bottom: 1px solid black;
 }
@@ -70,7 +72,6 @@ div#navigation ul a:hover {
 }
 
 div#section1 h1{
-  background-color: yellow;
   font-family: 'Droid Sans', sans-serif;
   font size: 2em;
   border-style: double;

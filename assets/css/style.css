@@ -8,7 +8,8 @@ section {
   border-bottom: 1px solid black;
 }
 
-div.container {
+#heading {
+  background-image: url ("christmas nyc 34.jpg")
   text-align: center;
   font-family: 'Fajalla One', sans-serif;
   font-size: .2em;

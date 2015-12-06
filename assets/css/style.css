@@ -1,0 +1,18 @@
+body {
+  background-color: #300000;
+  padding: 0em;
+  margin: 0em;
+}
+
+section {
+  border-bottom: 1px solid black;
+}
+
+#heading {
+  text-align: center;
+  font-family: 'Fajalla One', sans-serif;
+  font-size: .2em;
+  margin: 0em;
+  padding-bottom: .2em;
+  background-image: url(christmas nyc 34.jpg)
+}

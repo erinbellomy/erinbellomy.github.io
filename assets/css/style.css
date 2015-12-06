@@ -1,31 +1,70 @@
+body {
+  background-image: url ("lights background.jpg");
+}
 
-#header {
-  background-color: black;
-  color: white;
+section {
+  border-bottom: 1px solid black;
+}
+
+title {
+
+}
+#heading {
   text-align: center;
-  padding: 5px;
+  font-family: 'Fajalla One', sans-serif;
+  font-size: .2em;
+  color: black;
+  margin: 0em;
+  padding-bottom: .2em;
 }
 
-#nav {
-  line-height: 30px;
-  background-color: #eeeeee
-  height: 300px;
-  width:100px;
-  float: left;
-  padding:5px;
-}
-
-#section {
-  width: 350px;
-  float: left;
-  padding: 10px;
-
-}
-
-#footer {
-  background-color: black;
-  color: white;
-  clear: both;
+div#navigation {
+  margin: 0
+  padding: .3em 0 .3em 0;
+  background: #E3E4DB
+  width: 100%auto;
   text-align: center;
-  padding: 5px;
+  font: 'Droid Sans', sans-serif;
+}
+
+div#navigation ul li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+div#navigation ul a:link {
+  margin: 0
+  padding: .3em .4em .3em .4em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2em;
+  color: #191308;
+}
+
+div#navigation ul a:visited {
+  margin: 0;
+  padding: .3em .4em .3em .4em;
+  text-decoration:none;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #227755
+}
+
+div#navigation ul a:active {
+  margin: 0;
+  padding: .3em .4em .3em .4em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #227755
+}
+div#navigation ul a:hover {
+  margin: 0;
+  padding: .3em .4em .3em .4em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5em;
+  color:white;
+  background-color: #477998
 }

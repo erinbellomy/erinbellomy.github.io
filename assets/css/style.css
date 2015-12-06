@@ -7,8 +7,12 @@
   height: 700px;
 }
 
+body {
+  background-color: #8B0000
+  background-image: url("christmas nyc 34.jpg")
+}
 .img {
-  background-image: url(christmas nyc 34.jpg)
+  background-image: url('christmas nyc 34.jpg')
   background-repeat:no-repeat;
   background-position: center;
   width: 100%;

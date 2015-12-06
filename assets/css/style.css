@@ -1,5 +1,5 @@
 #body {
-  background-image: url("lights.jpg");
+  background-color: maroon;
 }
 .h1 {
   text-align: center;
@@ -17,7 +17,7 @@ section {
   padding-bottom: .2em;
 }
 
-.img {
+ div.item.active {
   float: right;
 }
 div#navigation {

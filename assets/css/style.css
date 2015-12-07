@@ -1,4 +1,4 @@
-title {
+.title {
   float:right;
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -84,7 +84,11 @@ div#section1 h1{
   font size: 2em;
   border-style: double;
   border-radius: 0em;
-  coloe:black;
+  color:black;
+}
+div#section1 p{
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
 }
 
 div#section2 h1{

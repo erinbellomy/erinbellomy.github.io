@@ -79,6 +79,11 @@ div#navigation ul a:hover {
   background-color: #660000
 }
 
+#nav-utility li::before{
+  content:'\00B7';
+  padding-right: 5px;
+}
+
 div#section1 h1{
   font-family: 'Droid Sans', sans-serif;
   font size: 2em;

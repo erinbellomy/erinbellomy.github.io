@@ -65,7 +65,7 @@ div#navigation ul a:hover {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  
+
 }
 
 #nav-utility li::before{
@@ -78,6 +78,7 @@ div#section1 h1{
   font size: 2em;
   border-style: double;
   border-radius: 0em;
+  coloe:black;
 }
 
 div#section2 h1{
@@ -85,6 +86,7 @@ div#section2 h1{
   font size: 2em;
   border-style: double;
   border-radius: 0em;
+  color:black;
 
 }
 
@@ -93,6 +95,7 @@ div#section3 h1{
   font size: 2em;
   border-style: double;
   border-radius: 0em;
+  color:black;
 
 
 }

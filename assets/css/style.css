@@ -26,6 +26,11 @@ div#navigation {
   padding: .3em 0 .3em 0;
   width: 100%auto;
   text-align: center;
+  border-style: double;
+  border-radius: 0em;
+  color:black;
+  background-color:#008B8B;
+  color: #fffff0;
   font: 'Droid Sans', sans-serif;
 }
 
@@ -68,10 +73,7 @@ div#navigation ul a:hover {
 
 }
 
-#nav-utility li::before{
-  content:'\00B7';
-  padding-right: 5px;
-}
+
 
 div#section1 h1{
   font-family: 'Droid Sans', sans-serif;

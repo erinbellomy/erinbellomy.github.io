@@ -19,63 +19,8 @@ section {
   padding-bottom: .2em;
 }
 
- div.item.active {
-  float: right;
-}
-div#navigation {
-  margin: 0
-  padding: .3em 0 .3em 0;
-  width: 100%;
-  background:#008B8B;
-  font: 'Droid Sans', sans-serif;
-}
-div#navigation ul {
-  text-align: center;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000
-}
-div#navigation ul li {
-  margin: 0;
-  padding: 0;
-  display: inline;
-}
 
-div#navigation ul a:link {
-  margin: 0
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 2em;
-  color: #white;
-}
 
-div#navigation ul a:visited {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration:none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color: #white;
-}
-
-div#navigation ul a:active {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color: white;
-}
-div#navigation ul a:hover {
-  margin: 0;
-  padding: .3em .4em .3em .4em;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.5em;
-  color: #fff;
-  background-color: #333;
-
-}
 
 div#section1 body {
   background-color: #ffffe5;

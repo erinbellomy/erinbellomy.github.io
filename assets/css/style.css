@@ -49,7 +49,7 @@ div#navigation ul a:link {
   text-decoration: none;
   font-weight: bold;
   font-size: 2em;
-  color: #black;
+  color: #white;
 }
 
 div#navigation ul a:visited {
@@ -58,7 +58,7 @@ div#navigation ul a:visited {
   text-decoration:none;
   font-weight: bold;
   font-size: 1.5em;
-  color: #660000;
+  color: white;
 }
 
 div#navigation ul a:active {

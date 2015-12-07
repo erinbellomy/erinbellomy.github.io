@@ -25,15 +25,15 @@ div#navigation {
   margin: 0
   padding: .3em 0 .3em 0;
   width: 100%auto;
-  text-align: center;
-  border-style: double;
-  border-radius: 0em;
-  color:black;
   background-color:#008B8B;
   color: #fffff0;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
   font: 'Droid Sans', sans-serif;
 }
-
+#nav ul {
+  text-align: center;
+}
 div#navigation ul li {
   margin: 0;
   padding: 0;

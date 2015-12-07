@@ -77,7 +77,9 @@ div#navigation ul a:hover {
 
 }
 
-
+div#section1 body {
+  background-color: #ffffe5;
+}
 
 div#section1 h1{
   font-family: 'Pacifico', cursive;

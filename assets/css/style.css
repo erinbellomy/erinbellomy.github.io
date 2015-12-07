@@ -38,6 +38,11 @@ div#navigation ul li {
   margin: 0;
   padding: 0;
   display: inline;
+  border-style: double;
+  border-radius: 0em;
+  color:black;
+  background-color:#008B8B;
+  color: #fffff0;
 }
 
 div#navigation ul a:link {
@@ -46,6 +51,11 @@ div#navigation ul a:link {
   text-decoration: none;
   font-weight: bold;
   font-size: 2em;
+  border-style: double;
+  border-radius: 0em;
+  color:black;
+  background-color:#008B8B;
+  color: #fffff0;
 }
 
 div#navigation ul a:visited {
@@ -54,6 +64,7 @@ div#navigation ul a:visited {
   text-decoration:none;
   font-weight: bold;
   font-size: 1.5em;
+
 
 }
 

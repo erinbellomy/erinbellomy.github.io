@@ -112,6 +112,9 @@ div#section3 h1{
   border-style: double;
   border-radius: 0em;
   color:black;
+}
 
-
+div#section3 p {
+  font-family: 'Handlee', cursive;
+  font-size: 20px;
 }

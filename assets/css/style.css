@@ -2,13 +2,7 @@ title {
   float:right;
 
 }
-body {
-  background-color: #ffe5e5;
-}
 
-div {
-  background-color: #ffe5e5;
-}
 .h1 {
   text-align: center;
 }
@@ -20,7 +14,6 @@ section {
   text-align: center;
   font-family: 'Fajalla One', sans-serif;
   font-size: .2em;
-  color: black;
   margin: 0em;
   padding-bottom: .2em;
 }
@@ -31,7 +24,6 @@ section {
 div#navigation {
   margin: 0
   padding: .3em 0 .3em 0;
-  background: #660000;
   width: 100%auto;
   text-align: center;
   font: 'Droid Sans', sans-serif;
@@ -49,7 +41,6 @@ div#navigation ul a:link {
   text-decoration: none;
   font-weight: bold;
   font-size: 2em;
-  color: #white;
 }
 
 div#navigation ul a:visited {
@@ -58,7 +49,7 @@ div#navigation ul a:visited {
   text-decoration:none;
   font-weight: bold;
   font-size: 1.5em;
-  color: white;
+
 }
 
 div#navigation ul a:active {
@@ -67,7 +58,6 @@ div#navigation ul a:active {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  color: white;
 }
 div#navigation ul a:hover {
   margin: 0;
@@ -75,8 +65,7 @@ div#navigation ul a:hover {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  color:white;
-  background-color: #660000
+  
 }
 
 #nav-utility li::before{

@@ -84,6 +84,13 @@ div#section1 h1{
   font size: 2em;
   border-style: double;
   border-radius: 0em;
+}
+
+div#section2 h1{
+  font-family: 'Droid Sans', sans-serif;
+  font size: 2em;
+  border-style: double;
+  border-radius: 0em;
 
 
 }

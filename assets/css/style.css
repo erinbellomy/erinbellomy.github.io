@@ -24,25 +24,19 @@ section {
 div#navigation {
   margin: 0
   padding: .3em 0 .3em 0;
-  width: 100%auto;
-  background-color:#008B8B;
-  color: #fffff0;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  width: 100%;
+  background:#008B8B;
   font: 'Droid Sans', sans-serif;
 }
-#nav ul {
+div#navigation ul {
   text-align: center;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000
 }
 div#navigation ul li {
   margin: 0;
   padding: 0;
   display: inline;
-  border-style: double;
-  border-radius: 0em;
-  color:black;
-  background-color:#008B8B;
-  color: #fffff0;
 }
 
 div#navigation ul a:link {
@@ -51,11 +45,7 @@ div#navigation ul a:link {
   text-decoration: none;
   font-weight: bold;
   font-size: 2em;
-  border-style: double;
-  border-radius: 0em;
-  color:black;
-  background-color:#008B8B;
-  color: #fffff0;
+  color: #white;
 }
 
 div#navigation ul a:visited {
@@ -64,8 +54,7 @@ div#navigation ul a:visited {
   text-decoration:none;
   font-weight: bold;
   font-size: 1.5em;
-
-
+  color: #white;
 }
 
 div#navigation ul a:active {
@@ -74,6 +63,7 @@ div#navigation ul a:active {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
+  color: white;
 }
 div#navigation ul a:hover {
   margin: 0;
@@ -81,6 +71,8 @@ div#navigation ul a:hover {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
+  color: #fff;
+  background-color: #333;
 
 }
 

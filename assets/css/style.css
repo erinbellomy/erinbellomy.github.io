@@ -95,7 +95,17 @@ div#section2 h1{
   color:black;
 
 }
+div#section2 button a{
+  text-align: center;
+  border-style: double;
+  border-radius: 0em;
+  color:black;
+}
 
+div#section2 p{
+  font-family: 'Handlee', cursive;
+  font-size: 20px;
+}
 div#section3 h1{
   font-family: 'Pacifico', cursive;
   font size: 2em;

@@ -103,9 +103,20 @@ div#section2 button a{
 }
 
 div#section2 p{
-  font-family: 'Handlee', cursive;
+  font-family: 'Poiret One', cursive;
   font-size: 20px;
 }
+
+div#section2 ul li {
+font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+
+div#section2 blockquote {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+
 div#section3 h1{
   font-family: 'Pacifico', cursive;
   font size: 2em;
@@ -115,6 +126,17 @@ div#section3 h1{
 }
 
 div#section3 p {
-  font-family: 'Handlee', cursive;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+
+
+div#section3 ul {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+
+div#section3 blockquote {
+font-family: 'Poiret One', cursive;
   font-size: 20px;
 }

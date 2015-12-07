@@ -67,7 +67,7 @@ div#navigation ul a:active {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
-  color: #660000
+  color: white;
 }
 div#navigation ul a:hover {
   margin: 0;

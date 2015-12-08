@@ -4,12 +4,18 @@
   text-align: center;
 }
 
+a.btn.btn-default {
+  font-family: 'Pacifico', cursive;
+}
+
 .h1 {
   text-align: center;
 }
 section {
   border-bottom: 1px solid black;
 }
+
+
 
 #heading {
   text-align: center;

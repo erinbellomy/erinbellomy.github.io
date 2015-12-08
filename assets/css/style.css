@@ -70,7 +70,12 @@ div#section2 p{
   font-size: 20px;
 }
 
-div#section2 ul li {
+div#section2 ul {
+font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+
+div#section2 li {
 font-family: 'Poiret One', cursive;
   font-size: 20px;
 }
